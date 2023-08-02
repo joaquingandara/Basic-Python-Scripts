@@ -1,2 +1,2 @@
 # Basic-Python-Scripts
-Basic python code and helpful script oriented for task automation
+Basic python code and helpful scripts oriented for task automation
